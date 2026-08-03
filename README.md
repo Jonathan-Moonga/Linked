@@ -15,7 +15,7 @@
 
 </div>
 
-A research collaboration platform connecting student researchers across universities — find teammates, mentors, and projects, no matter which campus you're on.
+A collaboration platform connecting student builders across universities — find teammates, mentors, and projects, no matter which campus you're on.
 
 ---
 
