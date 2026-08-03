@@ -240,7 +240,7 @@ MIT
 
 <div align="center">
 
-**Built by** [Jonathan Moonga](#) · Engineering Technology, Grambling State University
+**Built by** [Jonathan Moonga](#) · Computer Science, Software Engineering & Product
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2B3EEA&height=60&section=footer" alt="footer" width="100%" />
 
