@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2B3EEA&height=110&section=header&text=LINKED&fontSize=42&fontColor=FFFFFF&fontAlignY=55&desc=where%20student%20ideas%20find%20their%20team&descSize=14&descAlignY=80&descColor=D9D9D9" alt="Linked banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2B3EEA&height=110&section=header&text=LINKED&fontSize=42&fontColor=FFFFFF&fontAlignY=55&desc=where%20student%20ideas%20find%20their%20way"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=2B3EEA&center=true&vCenter=true&width=560&height=40&lines=FIND+TEAMS+AND+SHARE+RESOURCES+ACROSS+CAMPUSSES;FIND%2C+YOUR+CO-FOUNDER;CLOSE+THE+ACCESS+GAP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=2B3EEA&center=true&vCenter=true&width=560&height=60&lines=FIND+TEAMS+AND+SHARE+RESOURCES;MERIT+OVER+PROXIMITY;VERIFIED%2C+NOT+VOUCHED+FOR"/>
 </a>
 
 <br/>
@@ -42,9 +42,9 @@ A collaboration platform connecting student builders across universities — fin
 
 ## <img src="https://unpkg.com/pixelarticons@latest/svg/notification.svg" width="22" /> The problem
 
-Talented student researchers are sorted by which campus they happen to attend, not by what they can do. A student building something ambitious at a smaller or less-resourced school has no reliable way to find collaborators, mentors, or opportunities outside their own hallway — while the same student at a handful of elite institutions has that network handed to them by default.
+Talented student researchers are sorted by which campus they happen to attend, not by what they can do. A student building something ambitious at a smaller or less-resourced school has no reliable[...]
 
-Linked exists to close that gap: a verified, cross-campus network built specifically for student researchers, piloting first at Grambling State University and expanding across HBCUs before going national.
+Linked exists to close that gap: a verified, cross-campus network built specifically for student researchers, piloting first at Grambling State University and expanding across HBCUs before going natio[...]
 
 ---
 
@@ -89,7 +89,7 @@ The prototype and Figma files are the source of truth for design.
 
 ## <img src="https://unpkg.com/pixelarticons@latest/svg/sliders-2.svg" width="22" /> Core features
 
-- **🔍 Discover** — an AI-matched feed of projects, teammates, and mentors, weighted toward merit over proximity, using embedding similarity plus a diversity boost that corrects for the filter-bubble effect a pure-similarity recommender would create
+- **🔍 Discover** — an AI-matched feed of projects, teammates, and mentors, weighted toward merit over proximity, using embedding similarity plus a diversity boost that corrects for the filter[...]
 - **✅ Verify** — a Student Verified badge tied to `.edu` confirmation, so trust doesn't depend on who you already know
 - **🛠️ Build** — a full project workspace (tasks, chat, files, milestones) once a team forms
 - **📈 Grow** — a living portfolio that fills itself in as the work happens, instead of a resume assembled after the fact
@@ -108,7 +108,7 @@ flowchart TD
     AUTH -->|revocation check| SESS[["app_session table"]]
     APP -.->|planned| FEED["Discovery Feed"]
     FEED -.-> VEC[["pgvector embeddings"]]
-    VEC -.-> MATCH{"Matching Engine\n(similarity + diversity boost)"}
+    VEC -.-> MATCH{"Matching Engine\nsimilarity + diversity boost"}
     MATCH -.-> FEED
     APP -.->|planned| WS["Project Workspace"]
     APP -.->|planned| MENTOR["Mentor Matching"]
@@ -204,7 +204,7 @@ For architecture, the data model, and the full algorithm rationale, [**head over
 
 ## Contributing
 
-Linked isn't open for outside contributions yet — it's a solo build in active development. If you'd like to follow along or get involved early (as a pilot user, designer, or engineer), reach out — see Community below.
+Linked isn't open for outside contributions yet — it's a solo build in active development. If you'd like to follow along or get involved early (as a pilot user, designer, or engineer), reach out —[...]
 
 ## <img src="https://unpkg.com/pixelarticons@latest/svg/bell.svg" width="22" /> Support & community
 
