@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2B3EEA&height=110&section=header&text=LINKED&fontSize=42&fontColor=FFFFFF&fontAlignY=55&desc=where%20student%20ideas%20find%20their%20team&descSize=14&descAlignY=80&descColor=D9D9D9" alt="Linked banner" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=2B3EEA&center=true&vCenter=true&width=560&height=40&lines=MERIT+OVER+PROXIMITY;VERIFIED%2C+NOT+VOUCHED-FOR;SMALL+SCHOOLS+FIRST" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=2B3EEA&center=true&vCenter=true&width=560&height=40&lines=FIND+TEAMS+AND+SHARE+RESOURCES+ACROSS+CAMPUSSES;FIND%2C+YOUR+CO-FOUNDER;CLOSE+THE+ACCESS+GAP" alt="Typing SVG" />
 </a>
 
 <br/>
