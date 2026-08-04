@@ -1,9 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2B3EEA&height=110&section=header&text=LINKED&fontSize=42&fontColor=FFFFFF&fontAlignY=55&desc=where%20student%20ideas%20find%20their%20wa[...]">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2B3EEA&height=110&section=header&text=LINKED&fontSize=42&fontColor=FFFFFF&fontAlignY=55&desc=where%20student%20ideas%20find%20their%20way&descAlignY=80" style="display:block; margin:0 auto;"/>
+
+<!-- Add explicit spacing to prevent the title image from overlapping the typing SVG below -->
+<div style="height:14px"></div>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=2B3EEA&center=true&vCenter=true&width=560&height=60&lines=Find+teams+and+share+resources+across+Campusses.;Find+your+cofounder.;Find+the+dream+team.;Share+ideas.;Keep+up+with+other+builders.">
+  <!-- Increased width/height and ensured the image is block-level and centered so long text doesn't get cut off. Added multiple lines to avoid truncation. -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=2B3EEA&center=true&vCenter=true&width=760&height=80&lines=Find+teams+and+share+resources+across+campuses;Build+projects+with+verified+students;Grow+your+portfolio+as+you+build" style="display:block; margin:0 auto; margin-top:6px;"/>
 </a>
 
 <br/>
@@ -42,9 +46,9 @@ A collaboration platform connecting student builders across universities — fin
 
 ## <img src="https://unpkg.com/pixelarticons@latest/svg/notification.svg" width="22" /> The problem
 
-Talented student researchers are sorted by which campus they happen to attend, not by what they can do. A student building something ambitious at a smaller or less-resourced school has no reliable[...[...]
+Talented student researchers are sorted by which campus they happen to attend, not by what they can do. A student building something ambitious at a smaller or less-resourced school has no reliable[...]
 
-Linked exists to close that gap: a verified, cross-campus network built specifically for student researchers, piloting first at Grambling State University and expanding across HBCUs before going natio[...] 
+Linked exists to close that gap: a verified, cross-campus network built specifically for student researchers, piloting first at Grambling State University and expanding across HBCUs before going natio[...]
 
 ---
 
@@ -89,7 +93,7 @@ The prototype and Figma files are the source of truth for design.
 
 ## <img src="https://unpkg.com/pixelarticons@latest/svg/sliders-2.svg" width="22" /> Core features
 
-- **🔍 Discover** — an AI-matched feed of projects, teammates, and mentors, weighted toward merit over proximity, using embedding similarity plus a diversity boost that corrects for the filter[...[...]
+- **🔍 Discover** — an AI-matched feed of projects, teammates, and mentors, weighted toward merit over proximity, using embedding similarity plus a diversity boost that corrects for the filter[...]
 - **✅ Verify** — a Student Verified badge tied to `.edu` confirmation, so trust doesn't depend on who you already know
 - **🛠️ Build** — a full project workspace (tasks, chat, files, milestones) once a team forms
 - **📈 Grow** — a living portfolio that fills itself in as the work happens, instead of a resume assembled after the fact
