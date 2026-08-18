@@ -1,0 +1,9 @@
+node_modules/
+.next/
+data/
+.env
+*.tsbuildinfo
+.dev-smoke.*.log
+.audit/
+test-results/
+playwright-report/

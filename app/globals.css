@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: theme("fontFamily.sans");
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  color: #0f172a;
+  background: #ffffff;
+}
+
+button,
+input,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.auth-brand {
+  background-color: #eaf1f8;
+  background-image: url("/images/linked-network-bg.png");
+  background-position: center;
+  background-size: cover;
+}
+
+::selection {
+  background: #bae6fd;
+  color: #0f172a;
+}
+
+input[inputmode="numeric"]::-webkit-outer-spin-button,
+input[inputmode="numeric"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
